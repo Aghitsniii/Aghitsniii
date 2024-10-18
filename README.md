@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👾 Cybersecurity Enthusiast
+## 👾 Cybersecurity Enthusiast
 
 ## 🛡️ Tentang Saya  
 Halo! Saya seorang **Cybersecurity Enthusiast** dengan minat besar dalam **Ethical Hacking** dan **Keamanan Digital**. Saya senang mengeksplorasi bagaimana sistem bekerja dan menemukan cara untuk mengamankannya dari ancaman cyber. Tujuan saya adalah membantu menciptakan lingkungan digital yang lebih aman melalui pengetahuan dan praktik keamanan yang baik.
