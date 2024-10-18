@@ -1,9 +1,31 @@
 ## Hi there 👋
 
-## 👾 Cybersecurity Enthusiast
+# 👾 Cybersecurity Enthusiast
 
-## 🛡️ Tentang Saya  <br>Halo! Saya seorang **Cybersecurity Enthusiast** dengan minat besar dalam **Ethical Hacking** dan **Keamanan Digital**.  <br>Saya senang mengeksplorasi bagaimana sistem bekerja dan menemukan cara untuk mengamankannya <br>dari ancaman cyber. Tujuan saya adalah membantu menciptakan lingkungan digital yang lebih <br>aman melalui pengetahuan dan praktik keamanan yang baik.<br><br># 🎯 Tujuan Belajar  <br>- Meningkatkan pemahaman tentang **Keamanan Cloud** dan **arsitektur zero-trust**.  <br>- Mengembangkan keterampilan dalam **Threat Hunting** dan operasi **SOC**.  <br>- Aktif dalam **Program Bug Bounty** dan disclosure yang bertanggung jawab.  <br><br># 🔧 Keahlian & Minat  <br>- **Penetrasi Sistem:** Nmap, Burp Suite , Nuclei<br>- **Pemrograman:** Python,  C++<br>- **Keamanan Jaringan:** Wireshark, Konfigurasi Firewall, Analisis TCP/IP  <br>- **Keamanan Web:** SQL Injection, XSS, CSRF, OWASP Top 10  <br>- **OSINT (Open Source Intelligence):** theHarvester, Recon-ng  <br>- **Analisis Malware:** Ghidra, IDA Free, OllyDbg  <br>- **Kriptografi:** AES, RSA, dan Hashing  <br>- **Sistem Operasi:** Kali Linux  <br><br># 🛠️ Tools Favorit  <br>![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  <br>![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burp-suite)  <br>![Nuclei](https://img.shields.io/badge/Nuclei-blue?style=for-the-badge)  <br>![SQLmap](https://img.shields.io/badge/SQLmap-yellow?style=for-the-badge)<br>![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge) <br><br># ✨ "Hack the planet, tapi secara etis!"
+## 🛡️ Tentang Saya  
+Halo! Saya seorang **Cybersecurity Enthusiast** dengan minat besar dalam **Ethical Hacking** dan **Keamanan Digital**. Saya senang mengeksplorasi bagaimana sistem bekerja dan menemukan cara untuk mengamankannya dari ancaman cyber. Tujuan saya adalah membantu menciptakan lingkungan digital yang lebih aman melalui pengetahuan dan praktik keamanan yang baik.
 
+# 🎯 Tujuan Belajar  
+- Meningkatkan pemahaman tentang **Keamanan Cloud** dan **arsitektur zero-trust**.  
+- Mengembangkan keterampilan dalam **Threat Hunting** dan operasi **SOC**.
+- Aktif dalam **Program Bug Bounty** dan disclosure yang bertanggung jawab.
+
+# 🔧 Keahlian & Minat  
+- **Penetrasi Sistem:** Nmap, Burp Suite , Nuclei
+- **Pemrograman:** Python,  C++
+- **Keamanan Jaringan:** Wireshark, Konfigurasi Firewall, Analisis TCP/IP
+- **Keamanan Web:** SQL Injection, XSS, CSRF, OWASP Top 10
+- **OSINT (Open Source Intelligence):** theHarvester, Recon-ng
+- **Analisis Malware:** Ghidra, IDA Free, OllyDbg
+- **Kriptografi:** AES, RSA, dan Hashing
+- **Sistem Operasi:** Kali Linux
+
+# 🛠️ Tools Favorit  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burp-suite) 
+![Nuclei](https://img.shields.io/badge/Nuclei-blue?style=for-the-badge)  ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-yellow?style=for-the-badge)
+
+# ✨ "Hack the planet, tapi secara etis!"
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gisssss_) 
